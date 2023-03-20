@@ -29,5 +29,5 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'capybara', '>= 2.5.0'
   gem.add_runtime_dependency 'chunky_png', '~> 1.3', '>= 1.3.5'
   gem.add_runtime_dependency 'oily_png', '~> 1.2.0'
-  gem.add_runtime_dependency 'haml', '~> 5.0'
+  gem.add_runtime_dependency 'haml', '~> 4.0.7'
 end
